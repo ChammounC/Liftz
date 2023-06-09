@@ -64,7 +64,7 @@ body {
 }
 
 .exercise-card {
-    width: 400px;
+    width: 350px;
     height: 445px;
     background: #fff;
     border-top: 4px solid #FF2625;
@@ -76,6 +76,7 @@ body {
     padding-bottom: 10px;
     transform: scale(1, 1);
     transition: 0.3s all ease-in-out;
+    box-shadow: 1px 1px 10px #0000001b;
 }
 
 .exercise-card img {
